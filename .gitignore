@@ -1,0 +1,42 @@
+# WordPress
+/wp-admin/
+/wp-content/
+/wp-includes/
+/wp-config.php
+/.htaccess
+/license.txt
+/readme.html
+/sitemap.xml
+/xmlrpc.php
+/wp-content/plugins/hello.php
+
+# Composer
+/vendor/
+/composer.lock
+
+# Node
+/node_modules/
+npm-debug.log
+yarn-error.log
+
+# Build files
+/build/
+/dist/
+
+# Logs
+*.log
+debug.log
+
+# System files
+.DS_Store
+Thumbs.db
+._*
+
+# Editor directories
+.vscode/
+.idea/
+.project
+.settings/
+*.sublime-workspace
+*.sublime-project
+
